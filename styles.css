@@ -3,7 +3,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
     font-family: "Be Vietnam Pro", sans-serif;
     scroll-behavior: smooth;
     
@@ -544,8 +544,8 @@ a {
   font-size:15em;
   font-style:bold;
   color:rgb(231,231,231);
-  bottom:-18.5%;
-  right:-13%;
+  bottom:-22.5%;
+  right:-1%;
   user-select:none;
   overflow-y:hidden;
 }
